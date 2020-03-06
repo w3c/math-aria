@@ -22,7 +22,6 @@ var respecConfig = {
 	//wgPatentURI:  "https://www.w3.org/2004/01/pp-impl/83726/status",
 	wgURI:        "https://www.w3.org/community/mathonwebpages/",
 	wgPublicList: "public-mathonwebpages",
-	localBiblio: biblio,
 	
     // Spec URLs
     ariaSpecURLs: {
