@@ -1,4 +1,6 @@
 var respecConfig = {
+	github: "w3c/math-aria",
+	doJsonLd: true,
 	specStatus: "CG-DRAFT",
 	shortName: "math-aria-1.0",
 	editors: [
